@@ -8,3 +8,4 @@ Features:
 
 - React.js
 - Unsplash API
+Just run `npm install` and `npm run dev`
